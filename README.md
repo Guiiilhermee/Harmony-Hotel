@@ -1,39 +1,76 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![HOTEL LOGO]()
 
-Welcome,
+# HARMONY HOTEL SYSTEM 
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+The website provides a reservation system for rooms. It allows guests to create an account and manage or delete their account, make room reservations profile and cancel or update their reservations. The application is built using Django framework, with several built-in modules and some custom code.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
+![photo of responsive screens]
 
-## Codeanywhere Reminders
+### Site owner/administrator
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+The site owner or administrator will have full control over the system, as provided by Django's built-in administrator capabilities. The owner or administrator could:
 
-`python3 -m http.server`
+- Access, update, and delete all users(guests) information.
+- Access, update and delete any booking reservation.
+- Manage rooms, incluidind their number and capacity.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Guests
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+Guests are the users of the website which can register and create their own accounts.
 
-`http_server`
+![photos of the website]
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### Models
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+- 
+-
+### Forms
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+-
+-
 
-To log into the Heroku toolbelt CLI:
+### Views
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+-
+-
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+![photos of the register, profile, change password]
 
----
+### Error handling
 
-Happy coding!
+-
+-
+-
+
+### Bug fix
+
+
+### Future features
+
+-
+-
+
+### Validator and Testing
+
+- PEP8 style guide and validated HTML and CSS code.
+- Manual testing in differents browsers and devices.
+- 
+
+### Unfixed Bugs
+
+No unfixed bugs
+
+### Deployment
+
+The project was deployed using Code-Institute-Org/gitpod-full-template.
+
+This project was deployed to Github pages using the following steps...
+
+- In the Github repository, navigate to the Settings tab,
+
+### Credits
+
+- Code Institute for the deployment terminal.
+- Elephant SQL
+- Cloudinary for the pictures.
+- Youtube channel DarshanDev with tutorial videos.
