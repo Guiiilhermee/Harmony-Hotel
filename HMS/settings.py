@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'cloudinary',
     'hotel',
+    'hotel.booking_functions',
 ]
 
 MIDDLEWARE = [
